@@ -43,10 +43,10 @@ function App() {
       </div>
       </div>
       <div class= "footer">
-      <div class= "footertext">
+      
       <h3>Bartosz Omiotek</h3>
       <h6>Gr:6, Nr indeksu: 113969</h6>
-      </div>
+      
       </div>
       
       <p className="read-the-docs">
