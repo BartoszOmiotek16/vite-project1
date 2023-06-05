@@ -23,19 +23,19 @@ function App() {
     <h3>Wirtualna Uczelnia</h3>
       <div>
       <a href="https://dziekanat.spoleczna.pl/" target="_blank" rel="noopener noreferrer">
-        <button>Wirtualna Uczelnia</button>
+        <button>Sprawdź</button>
       </a>
     </div>
-    <h3>Wirtualna Uczelnia</h3>
+    <h3>Strefa Stydenta</h3>
     <div>
-      <a href="https://dziekanat.spoleczna.pl/" target="_blank" rel="noopener noreferrer">
-        <button>Wirtualna Uczelnia</button>
+      <a href="https://san.edu.pl/strefa-studenta" target="_blank" rel="noopener noreferrer">
+        <button>Sprawdź</button>
       </a>
     </div>
-    <h3>Wirtualna Uczelnia</h3>
+    <h3>Intranet SAN</h3>
     <div>
-      <a href="https://dziekanat.spoleczna.pl/" target="_blank" rel="noopener noreferrer">
-        <button>Wirtualna Uczelnia</button>
+      <a href="https://intranet.san.edu.pl/" target="_blank" rel="noopener noreferrer">
+        <button>Sprawdź</button>
       </a>
     </div>
       </div>
