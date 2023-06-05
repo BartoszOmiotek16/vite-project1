@@ -34,7 +34,9 @@ function App() {
     <div class="prawa">
     <h1>Bartosz Omiotek</h1>
       <h3>Gr:6, Nr indeksu: 113969</h3>
- 
+      
+      <img src={reactLogo} className="logo react" alt="React logo" />
+
       </div>
       </div>
       <div class= "footer">
