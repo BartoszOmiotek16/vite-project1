@@ -15,7 +15,7 @@ function App() {
         </a>
       </div>
       <div class="gora2">
-      <h2>Moja pierwsza strona REACT</h2>
+      <h1>Moja pierwsza strona REACT</h1>
     </div>
    
 <div class="content">
