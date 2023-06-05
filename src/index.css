@@ -39,6 +39,7 @@ button {
 }
 button:hover {
   border-color: #646cff;
+  transition:0.5s!important;
   transform: scale(1.15);
 }
 button:focus,
