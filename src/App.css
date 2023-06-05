@@ -81,6 +81,8 @@ padding-left: 10px;
   color: #888;
 }
 .footer{
+  clear: both;
+  display: flex;
   height: 80px;
   text-align: center;
   background-color: #353433;
