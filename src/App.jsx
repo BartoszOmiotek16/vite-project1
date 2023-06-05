@@ -44,9 +44,9 @@ function App() {
 
 
     <div class="prawa">
-      
-      <img src="https://cogito.com.pl/wp-content/uploads/sites/2/2018/07/logo-SAN-1-450x160.jpg" alt="logo" style={{ width: '400px', }}/>
-      
+    <a href="https://san.edu.pl/" target="_blank">
+      <img src="https://cogito.com.pl/wp-content/uploads/sites/2/2018/07/logo-SAN-1-450x160.jpg" alt="logo SAN" style={{ width: '600px', }}/>
+      </a>
       </div>
       </div>
       <div class= "footer">
