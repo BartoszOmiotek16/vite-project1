@@ -79,10 +79,9 @@ background-color: #fff;
   color: #888;
 }
 .footer{
+  height: 100px;
   text-align: center;
   background-color: #353433;
   color: #fff;
 }
-.footer h6{
-  padding: none !important;
-}
+
