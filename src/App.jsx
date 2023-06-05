@@ -35,7 +35,7 @@ function App() {
     <h1>Bartosz Omiotek</h1>
       <h3>Gr:6, Nr indeksu: 113969</h3>
       
-      <img src='.logo.png'/>
+      <img src='logo.png'/>
 
       </div>
       </div>
