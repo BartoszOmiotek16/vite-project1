@@ -10,9 +10,9 @@ function App() {
     <>
     
     <div class="gora1">
-    
+    <a href="https://react.dev" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
-        
+        </a>
       </div>
       <div class="gora2">
       <h2>Moja pierwsza strona REACT</h2>
