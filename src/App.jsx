@@ -33,11 +33,19 @@ function App() {
 
     <div class="prawa">
       <img src="https://cogito.com.pl/wp-content/uploads/sites/2/2018/07/logo-SAN-1-450x160.jpg" alt="logo" style={{ width: '400px', }}/>
-      <h1>Bartosz Omiotek</h1>
-      <h3>Gr:6, Nr indeksu: 113969</h3>
       <div>
-      <a href="https://bobbyhadz.com" target="_blank" rel="noopener noreferrer">
-        <button>Click</button>
+      <a href="https://dziekanat.spoleczna.pl/" target="_blank" rel="noopener noreferrer">
+        <button>Wirtualna Uczelnia</button>
+      </a>
+    </div>
+    <div>
+      <a href="https://dziekanat.spoleczna.pl/" target="_blank" rel="noopener noreferrer">
+        <button>Wirtualna Uczelnia</button>
+      </a>
+    </div>
+    <div>
+      <a href="https://dziekanat.spoleczna.pl/" target="_blank" rel="noopener noreferrer">
+        <button>Wirtualna Uczelnia</button>
       </a>
     </div>
       </div>
