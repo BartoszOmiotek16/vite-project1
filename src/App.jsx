@@ -18,7 +18,7 @@ function App() {
       <h2>Moja pierwsza strona REACT</h2>
     </div>
    
-
+<div class="content">
     <div class="lewa">
     <h1>Bartosz Omiotek</h1>
       <h3>Gr:6, Nr indeksu: 113969</h3>
@@ -41,7 +41,7 @@ function App() {
         
       </div>
       </div>
-      
+      </div>
       
       <p className="read-the-docs">
        
