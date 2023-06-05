@@ -34,35 +34,7 @@ function App() {
     <div class="prawa">
     <h1>Bartosz Omiotek</h1>
       <h3>Gr:6, Nr indeksu: 113969</h3>
-      <ul id="gallery" class="rvnGallery">
-	<li>
-		<img src="img/1.png" alt="pierwszy obrazek" />
-		<p>Pierwszy obrazek.</p>
-	</li>
-	<li>
-		<img src="img/2.png" alt="drugi obrazek" />
-	</li>
-	<li>
-		<img src="img/3.png" alt="trzeci obrazek" />
-		<p><strong>Pogrubiony podpis.</strong></p>
-	</li>
-	<li>
-		<a href="http://rvn-gallery.krukowski.me"><img src="img/6.png" alt="czwarty obrazek" /></a>
-		<p>Tutaj jest link do tej strony.</p>
-	</li>
-	<li>
-		<img src="img/5.png" alt="piąty obrazek" />
-	</li>
-	<li>
-		<img src="img/4.png" alt="szósty obrazek" />
-		<p>Ostatni obrazek.</p>
-	</li>
-</ul>
-<script>
-$(window).load(function(){
-	$('#gallery').rvnGallery({effect: ['randomBoxes', 'tiles', 'alphaRect'], verticalSlices: 6, horizontalSlices: 4});
-});
-</script>
+ 
       </div>
       </div>
       <div class= "footer">
