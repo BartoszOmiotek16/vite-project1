@@ -32,7 +32,7 @@ float: left;
 float: right;
 }
 .gora2 h1{
-line-height: 110px;
+line-height: 80px;
 }
 
 .content{
@@ -85,7 +85,7 @@ padding-right: 10px;
 .footer{
   display: flex;
   justify-content: center;
- width: 100% !important;
+ 
   height: 80px;
   text-align: center;
   background-color: #353433;
