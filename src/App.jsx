@@ -20,6 +20,7 @@ function App() {
    
 <div class="content">
     <div class="lewa">
+    <div class="lewasrodek"> 
     <h3>Wirtualna Uczelnia</h3>
       <div>
       <a href="https://dziekanat.spoleczna.pl/" target="_blank" rel="noopener noreferrer">
@@ -37,6 +38,7 @@ function App() {
       <a href="https://intranet.san.edu.pl/" target="_blank" rel="noopener noreferrer">
         <button>Sprawdź</button>
       </a>
+      </div>
     </div>
       </div>
 
