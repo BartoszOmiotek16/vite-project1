@@ -44,12 +44,14 @@ line-height: 110px;
   width: 30%;
 background-color: #d8d8d8;
 padding-left: 10px;
+padding-right: 10px;
 }
 
 .prawa {
   width: 70%;
   float: right;
   padding-right: 10px;
+  padding-left: 10px;
 }
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
@@ -82,7 +84,7 @@ padding-left: 10px;
 }
 .footer{
   clear: both;
-  display: flex;
+ 
   height: 80px;
   text-align: center;
   background-color: #353433;
