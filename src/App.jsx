@@ -42,6 +42,10 @@ function App() {
       </div>
       </div>
       </div>
+      <div class= "footer">
+      <h3>Bartosz Omiotek</h3>
+      <h6>Gr:6, Nr indeksu: 113969</h6>
+      </div>
       
       <p className="read-the-docs">
        
