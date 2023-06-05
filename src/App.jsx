@@ -44,7 +44,7 @@ function App() {
       </div>
       <div class= "footer">
       
-      <h3>Bartosz Omiotek</h3>
+      <h3>Bartosz Omiotek</h3> <br></br>
       <h6>Gr:6, Nr indeksu: 113969</h6>
       
       </div>
