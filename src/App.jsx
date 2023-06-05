@@ -32,17 +32,20 @@ function App() {
 
 
     <div class="prawa">
+      <h3>Wirtualna Uczelnia</h3>
       <img src="https://cogito.com.pl/wp-content/uploads/sites/2/2018/07/logo-SAN-1-450x160.jpg" alt="logo" style={{ width: '400px', }}/>
       <div>
       <a href="https://dziekanat.spoleczna.pl/" target="_blank" rel="noopener noreferrer">
         <button>Wirtualna Uczelnia</button>
       </a>
     </div>
+    <h3>Wirtualna Uczelnia</h3>
     <div>
       <a href="https://dziekanat.spoleczna.pl/" target="_blank" rel="noopener noreferrer">
         <button>Wirtualna Uczelnia</button>
       </a>
     </div>
+    <h3>Wirtualna Uczelnia</h3>
     <div>
       <a href="https://dziekanat.spoleczna.pl/" target="_blank" rel="noopener noreferrer">
         <button>Wirtualna Uczelnia</button>
