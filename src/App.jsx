@@ -20,20 +20,7 @@ function App() {
    
 <div class="content">
     <div class="lewa">
-    <h1>Bartosz Omiotek</h1>
-      <h3>Gr:6, Nr indeksu: 113969</h3>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        
-      </div>
-      </div>
-
-
-    <div class="prawa">
-      <h3>Wirtualna Uczelnia</h3>
-      <img src="https://cogito.com.pl/wp-content/uploads/sites/2/2018/07/logo-SAN-1-450x160.jpg" alt="logo" style={{ width: '400px', }}/>
+    <h3>Wirtualna Uczelnia</h3>
       <div>
       <a href="https://dziekanat.spoleczna.pl/" target="_blank" rel="noopener noreferrer">
         <button>Wirtualna Uczelnia</button>
@@ -51,8 +38,18 @@ function App() {
         <button>Wirtualna Uczelnia</button>
       </a>
     </div>
+      
+        
       </div>
       </div>
+
+
+    <div class="prawa">
+      
+      <img src="https://cogito.com.pl/wp-content/uploads/sites/2/2018/07/logo-SAN-1-450x160.jpg" alt="logo" style={{ width: '400px', }}/>
+      
+      </div>
+      
       <div class= "footer">
       
       <h3>Bartosz Omiotek Gr:6, Nr indeksu: 113969</h3> 
