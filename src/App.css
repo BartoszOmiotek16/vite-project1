@@ -1,7 +1,7 @@
 #root {
   max-width: auto;
   margin: 0 auto;
-  padding: 2rem;
+  
   
 }
 
@@ -81,4 +81,5 @@ background-color: #fff;
 .footer{
   text-align: center;
   background-color: #353433;
+  color: #fff;
 }
