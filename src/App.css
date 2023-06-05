@@ -35,6 +35,11 @@ float: right;
 line-height: 110px;
 }
 
+.content{
+    clear: both;
+    display: flex;
+}
+
 .lewa{
   width: 30%;
 background-color: #fff;
@@ -72,4 +77,8 @@ background-color: #fff;
 
 .read-the-docs {
   color: #888;
+}
+.footer{
+  text-align: center;
+  background-color: #353433;
 }
