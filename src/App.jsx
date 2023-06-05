@@ -20,7 +20,24 @@ function App() {
    
 <div class="content">
     <div class="lewa">
-    
+    <h3>Wirtualna Uczelnia</h3>
+      <div>
+      <a href="https://dziekanat.spoleczna.pl/" target="_blank" rel="noopener noreferrer">
+        <button>Wirtualna Uczelnia</button>
+      </a>
+    </div>
+    <h3>Wirtualna Uczelnia</h3>
+    <div>
+      <a href="https://dziekanat.spoleczna.pl/" target="_blank" rel="noopener noreferrer">
+        <button>Wirtualna Uczelnia</button>
+      </a>
+    </div>
+    <h3>Wirtualna Uczelnia</h3>
+    <div>
+      <a href="https://dziekanat.spoleczna.pl/" target="_blank" rel="noopener noreferrer">
+        <button>Wirtualna Uczelnia</button>
+      </a>
+    </div>
       </div>
 
 
