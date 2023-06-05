@@ -18,11 +18,9 @@ function App() {
       <h2>Moja pierwsza strona REACT</h2>
     </div>
    
-    <div>
-        
-      
-      </div>
-      <h1>Bartosz Omiotek</h1>
+
+    <div class="lewa">
+    <h1>Bartosz Omiotek</h1>
       <h3>Gr:6, Nr indeksu: 113969</h3>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
@@ -30,6 +28,21 @@ function App() {
         </button>
         
       </div>
+      </div>
+
+
+    <div class="prawa">
+    <h1>Bartosz Omiotek</h1>
+      <h3>Gr:6, Nr indeksu: 113969</h3>
+      <div className="card">
+        <button onClick={() => setCount((count) => count + 1)}>
+          count is {count}
+        </button>
+        
+      </div>
+      </div>
+      
+      
       <p className="read-the-docs">
        
       </p>
