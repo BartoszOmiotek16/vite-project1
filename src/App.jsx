@@ -35,7 +35,7 @@ function App() {
     <h1>Bartosz Omiotek</h1>
       <h3>Gr:6, Nr indeksu: 113969</h3>
       
-      <img src="https://reactjs.org/logo-og.png" alt="react logo" style={{ width: '400px', }}/>
+      <img src="https://san.edu.pl/f/logo-san-stopka-bg_s01.png" alt="logo" style={{ width: '400px', }}/>
 
       </div>
       </div>
