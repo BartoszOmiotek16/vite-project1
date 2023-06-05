@@ -14,7 +14,7 @@
 .gora1 {
   background-color: #353433;
   color: white;
-  width: 30%;
+  width: 15%;
 height: 150px;
   display: center;
   text-align: left;
@@ -26,12 +26,12 @@ float: left;
 .gora2 {
   background-color: #353433;
   color: white;
-  width: 70%;
+  width: 85%;
   height: 150px;
   text-align: left;
 float: right;
 }
-.gora2 h2{
+.gora2 h1{
 line-height: 110px;
 }
 
